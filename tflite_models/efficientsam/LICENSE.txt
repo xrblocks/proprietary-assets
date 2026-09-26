@@ -1,0 +1,2 @@
+Licensed under apache 2.0.
+See https://github.com/yformer/EfficientSAM
