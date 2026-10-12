@@ -1,3 +1,16 @@
 These 3D Gaussian Splatting scene models were trained using data from Zip-NeRF
 (https://github.com/jonbarron/camp_zipnerf), which is licensed under the
 Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
+
+---
+
+Verzasca River - Ponte dei Salti, Switzerland (verzasca_river_lod5.zip)
+
+Author: Paolo Tosolini (https://superspl.at/user/tosolini)
+Source: https://superspl.at/scene/fb6b9fae
+License: Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/)
+Requirements: Author must be credited. Commercial use is allowed.
+
+Modified: extracted the pre-built LOD level 5 (362,621 of 23,157,002 splats)
+from the SuperSplat streamed-LOD export and repackaged it as a single-unit
+SOGS zip. Content is otherwise unchanged.
